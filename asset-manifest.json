@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/hmFirst/static/css/main.4307b54d.css",
+    "main.js": "/hmFirst/static/js/main.28f6eb21.js",
+    "static/js/787.66cb4309.chunk.js": "/hmFirst/static/js/787.66cb4309.chunk.js",
+    "static/media/avatar.png": "/hmFirst/static/media/avatar.d947cb9d0d13765666b6.png",
+    "index.html": "/hmFirst/index.html",
+    "main.4307b54d.css.map": "/hmFirst/static/css/main.4307b54d.css.map",
+    "main.28f6eb21.js.map": "/hmFirst/static/js/main.28f6eb21.js.map",
+    "787.66cb4309.chunk.js.map": "/hmFirst/static/js/787.66cb4309.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4307b54d.css",
+    "static/js/main.28f6eb21.js"
+  ]
+}
